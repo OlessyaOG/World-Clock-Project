@@ -1,5 +1,8 @@
 body {
-  background-color: #fecea8;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/826/original/bg4.jpg?1714344830");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   font-family: sans-serif;
 }
 
@@ -20,6 +23,10 @@ select {
   font-size: 18px;
   border-radius: 4px;
   padding: 10px;
+}
+span {
+  padding: 20px 0 0 0;
+  color: black;
 }
 
 .container {

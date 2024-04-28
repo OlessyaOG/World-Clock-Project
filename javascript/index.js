@@ -46,6 +46,9 @@ function updateCity(event) {
     "A"
   )}</small></div>
 </div>
+<a href="index.html"><span class="material-symbols-outlined">
+keyboard_return
+</span></a>
   `;
 }
 
