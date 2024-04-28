@@ -1,20 +1,30 @@
 body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/826/original/bg4.jpg?1714344830");
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/124/828/original/bg6.jpg?1714345357");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: sans-serif;
+  font-family: "Hina Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
   text-align: center;
-  font-family: sans-serif;
-  font-size: 36px;
+  font-family: "Pacifico", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 60px;
+  padding: 0;
+  margin-top: 0%;
+  margin-bottom: 2%;
 }
 
 h2 {
   margin: 0 0 5px;
   font-size: 28px;
+  font-family: "Hina Mincho", serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 select {
@@ -32,7 +42,7 @@ span {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: #ff847c;
+  background-color: #d3d6db;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
   padding: 30px;
@@ -66,7 +76,14 @@ span {
 }
 
 footer {
+  font-family: "Hina Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
   text-align: center;
-  font-size: 18px;
-  color: rgba(0, 0, 0, 0.6);
+  font-size: 20px;
+  color: #d3d6db;
+}
+
+a {
+  color: #d3d6db;
 }
